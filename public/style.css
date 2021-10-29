@@ -1,0 +1,47 @@
+body {
+  background-color: #E3682A;
+}
+
+.logo {
+  width: 300px;
+}
+
+.title {
+  color: #FFFFFF;
+  font-weight: 400;
+}
+
+.fw-bolder {
+  margin-top: 5vh;
+}
+
+.fw-normal {
+  color: #FFFFFF;
+  margin: 0vh 10vw;
+  margin-bottom: 5vh;
+}
+
+.socials {
+  margin-top: 2vh;
+}
+
+.socials i {
+  color: #FFFFFF;
+}
+
+.socials i:hover {
+  color: #b6b6b6;
+}
+
+.text {
+  margin-top: 1vh;
+  font-size: 13px;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 768px) {
+  .btn {
+    margin-top: 1vh;
+    width: auto;
+  }
+}
